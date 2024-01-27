@@ -1,0 +1,27 @@
+{
+  "rules": {
+    "title": "Forum Rules",
+    "general": [
+      "Respect each other and avoid insults and offensive language.",
+      "Do not spread misinformation or false data.",
+      "Report rule violations and cooperate with moderators."
+    ],
+    "content": [
+      "Post content that is appropriate and does not violate laws.",
+      "Respect intellectual property rights and do not use others' materials without permission.",
+      "Do not spam and avoid posting inappropriate or repetitive messages."
+    ],
+    "advertising": [
+      "Advertising is allowed only in specific sections and after obtaining approval from administrators.",
+      "Do not distribute unwanted advertisements and adhere to self-promotion rules."
+    ],
+    "penalties": [
+      "In case of rule violations, moderators have the right to take action, including warnings, temporary, or permanent bans.",
+      "Administrators may edit, delete, or move content if necessary."
+    ],
+    "communication": [
+      "Share ideas and opinions constructively without attacking the personalities of other users.",
+      "If you have questions or issues, contact administrators or moderators."
+    ]
+  }
+}
